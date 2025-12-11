@@ -1,2 +1,3 @@
 - known as distros in common use, all include the linux kernel
 - commonly found as Ubuntu, mint, desbian
+- main families are RedHat, SUSU, Debian
