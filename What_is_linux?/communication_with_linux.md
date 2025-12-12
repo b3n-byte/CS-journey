@@ -5,6 +5,7 @@
 - touch- creates an empty file
 - nano- fileexample.txt- creates a mimi playground for you to edit file in
 - cat: prints the contents of a file
+- ctrl O saves file, ctrl X exits file in nano
 - chmod +x script.sh: reads file line by line and gives permission?
 
 UNSURE:
