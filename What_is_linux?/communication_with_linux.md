@@ -6,7 +6,8 @@
 - nano- fileexample.txt- creates a mimi playground for you to edit file in
 - cat: prints the contents of a file
 - ctrl O saves file, ctrl X exits file in nano
-- chmod +x script.sh: reads file line by line and gives permission?
+- #!/bin/bash: tells linux to run this file on the bash interpreter
 
 UNSURE:
 - echo "what is this" > file_example.txt: echo seems to create a file and store information inside it
+- chmod +x script.sh: reads file line by line and gives permission?
