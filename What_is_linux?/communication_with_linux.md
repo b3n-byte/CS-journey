@@ -7,6 +7,8 @@
 - cat: prints the contents of a file
 - ctrl O saves file, ctrl X exits file in nano
 - #!/bin/bash: tells linux to run this file on the bash interpreter
+- read text: whatever comes after read is stored in the variable name, so here name = text
+- $variable: print that variable
 
 UNSURE:
 - echo "what is this" > file_example.txt: echo seems to create a file and store information inside it
