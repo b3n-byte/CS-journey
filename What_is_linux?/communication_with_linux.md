@@ -10,6 +10,7 @@
 - read text: whatever comes after read is stored in the variable name, so here name = text
 - $variable: print that variable
 - mv file file: changes a files name, can add /place/place to make it go into a different directory or general place
+- find file/directory: lists a directory and or file and everything in it
 
 UNSURE:
 - echo "what is this" > file_example.txt: echo seems to create a file and store information inside it
