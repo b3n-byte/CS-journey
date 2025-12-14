@@ -1,1 +1,3 @@
-
+- IP stands for Internet Protocol and is split into 4 Octets
+- IPv6 is being used so more devices can have an IP address (trillions of combos)
+- MAC stands for Media Access Control and is a devices physical network interface, it can be spoofed (changed)
