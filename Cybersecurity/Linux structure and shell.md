@@ -37,4 +37,5 @@ FILE SYSTEM HIERARCHY:
 - /usr	Contains executables, libraries, man files, etc.
 - /var	This directory contains variable data files such as log files, email in-boxes, web application related files, cron files, and more.
 
+DISTRIBUTIONS
 - distributions are branches of linux tailored for specific purposes
