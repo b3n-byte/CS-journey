@@ -19,3 +19,21 @@ ARCHITECTURE:
 - Kernel: manages common computer hardware such as CPU, allocated memory, accessed data. Gives them their own resorces and prevents conflict between them.
 - Shell: command-line interface
 - System Utility: makes available to user OS systems functionality
+
+FILE SYSTEM HIERARCHY:
+- /: top-level directory contains information needed to boot the OS before other filesystems mounted.
+
+\d	Date (Mon Feb 6)
+\D{%Y-%m-%d}	Date (YYYY-MM-DD)
+\H	Full hostname
+\j	Number of jobs managed by the shell
+\n	Newline
+\r	Carriage return
+\s	Name of the shell
+\t	Current time 24-hour (HH:MM:SS)
+\T	Current time 12-hour (HH:MM:SS)
+\@	Current time
+\u	Current username
+\w	Full path of the current working directory
+
+  
