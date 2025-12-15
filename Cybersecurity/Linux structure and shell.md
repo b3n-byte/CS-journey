@@ -39,3 +39,4 @@ FILE SYSTEM HIERARCHY:
 
 DISTRIBUTIONS
 - distributions are branches of linux tailored for specific purposes
+- Debian is known for stability and reliability
