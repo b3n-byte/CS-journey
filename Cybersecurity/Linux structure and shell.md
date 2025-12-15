@@ -44,3 +44,22 @@ DISTRIBUTIONS
 INTRODUCTION TO SHELL:
 - terminal emulators: like a terminal but bypass the normal terminal
 - Command-line-interface (CLI): Terminal within a terminal
+
+PROMPT DESCRIPTION
+- bash prompt should look like this <username>@<hostname><current working directory>$, the first working directory we see should be the home one represented by this symbol ~
+- when logged in as root this should be what BASH provides root@htb[/htb]# or something of the like
+- In summary an unprivalidged prompt is $, and a privaledged one is #, the PS1 vaiable controls the prompt
+- By heading to the PS1 variables file which is .bashrc for BASH we can change the prompt, what to add and what ir does is listed here:
+\d	Date (Mon Feb 6)
+\D{%Y-%m-%d}	Date (YYYY-MM-DD)
+\H	Full hostname
+\j	Number of jobs managed by the shell
+\n	Newline
+\r	Carriage return
+\s	Name of the shell
+\t	Current time 24-hour (HH:MM:SS)
+\T	Current time 12-hour (HH:MM:SS)
+\@	Current time
+\u	Current username
+\w	Full path of the current working directory
+add these to the file and the prompt will change due to the PS1 variables change
