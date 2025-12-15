@@ -40,3 +40,7 @@ FILE SYSTEM HIERARCHY:
 DISTRIBUTIONS
 - distributions are branches of linux tailored for specific purposes
 - Debian is known for stability and reliability
+
+INTRODUCTION TO SHELL:
+- terminal emulators: like a terminal but bypass the normal terminal
+- Command-line-interface (CLI): Terminal within a terminal
