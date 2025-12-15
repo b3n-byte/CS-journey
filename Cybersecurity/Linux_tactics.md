@@ -5,4 +5,4 @@ liklely to be different than 1000
 - membership in the sudo group means user has limited or full access to the all-powerfull root commands
 
 SYSTEM INFORMATION
-- uname can give much info about our targets system
+- uname can give much info about our targets system, for example find the kernel version and search for exploits of that version
