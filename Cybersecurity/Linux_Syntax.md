@@ -14,3 +14,4 @@ netstat	Shows network status.
 - lsusb	Lists USB devices
 - lsof	Lists opened files.
 - lspci	Lists PCI devices.
+- SSH <username>@<IP address>: is a famous command that allows users to remotely access a computer with username and password and IP
