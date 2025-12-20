@@ -5,7 +5,7 @@
 - pwd	Returns working directory name.
 - ifconfig	The ifconfig utility is used to assign or to view an address to a network interface and/or configure network interface parameters.
 - ip	Ip is a utility to show or manipulate routing, network devices, interfaces and tunnels.
-netstat	Shows network status.
+- netstat	Shows network status.
 - ss	Another utility to investigate sockets.
 - ps	Shows process status.
 - who	Displays who is logged in.
